@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Savis\\Desktop\\app\\app.csproj",
+      "projectUniqueName": "C:\\Users\\Savis\\Desktop\\Guess-the-Number-Dotnet-CLI\\app.csproj",
       "projectName": "app",
-      "projectPath": "C:\\Users\\Savis\\Desktop\\app\\app.csproj",
+      "projectPath": "C:\\Users\\Savis\\Desktop\\Guess-the-Number-Dotnet-CLI\\app.csproj",
       "packagesPath": "C:\\Users\\Savis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Savis\\Desktop\\app\\obj\\",
+      "outputPath": "C:\\Users\\Savis\\Desktop\\Guess-the-Number-Dotnet-CLI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Savis\\AppData\\Roaming\\NuGet\\NuGet.Config"

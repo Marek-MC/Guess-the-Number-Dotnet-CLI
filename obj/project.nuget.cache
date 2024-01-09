@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zxx2I9PxENU9rb8uJtGH6lvh1zKxPwb4kAhRH5NWbwD4A/iu/CY1oe+sRnGULgMMOqWsuQQeq6AL17O5oAd+xg==",
+  "dgSpecHash": "2db2SDK2fKzUOtpc8ncU4sGGZ7FT5EtAhpMd7qltCIJDYdDnynsrJdYoOURJaiIIhcLqMY8D497v7kB+wYVBxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Savis\\Desktop\\app\\app.csproj",
+  "projectFilePath": "C:\\Users\\Savis\\Desktop\\Guess-the-Number-Dotnet-CLI\\app.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
